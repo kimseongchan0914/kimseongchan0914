@@ -1,9 +1,9 @@
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0D1117&height=260&section=header&text=김성찬%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20·%20광주소프트웨어마이스터고&descAlignY=56&descSize=18&descAlignX=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:E23636,100:2B3A8C&height=280&section=header&text=김성찬%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20·%20광주소프트웨어마이스터고&descAlignY=60&descSize=18&descAlignX=50" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&height=60&lines=Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Java+%C2%B7+Kotlin+%C2%B7+Spring+Boot;%EC%84%9C%EB%B2%84%EC%99%80+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EC%84%A4%EA%B3%84%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%A9%EB%8B%88%EB%8B%A4+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=E23636&center=true&vCenter=true&width=650&height=60&lines=Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Java+%C2%B7+Kotlin+%C2%B7+Spring+Boot;%EC%84%9C%EB%B2%84%EC%99%80+%EC%8B%9C%EC%8A%A4%ED%85%9C+%EC%84%A4%EA%B3%84%EB%A5%BC+%EA%B3%B5%EB%B6%80%ED%95%A9%EB%8B%88%EB%8B%A4+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -122,4 +122,4 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6DB33F&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2B3A8C,100:E23636&height=150&section=footer&reversal=true" />
