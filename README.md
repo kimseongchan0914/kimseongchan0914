@@ -61,8 +61,7 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 <h3 align="center">📌 GETI</h3>
 
 <a href="https://github.com/inryeok-office/GETI-Server-V1">
-  <img width="137" height="135" alt="image" src="https://github.com/user-attachments/assets/01b84e3e-0ebf-4b8a-8cb1-c341fbf9b7d2" />
-" />
+  <img width="137" height="135" alt="image" src="https://github.com/user-attachments/assets/01b84e3e-0ebf-4b8a-8cb1-c341fbf9b7d2"/>
 </a>
 
 **취업 정보 통합 플랫폼**
@@ -77,9 +76,8 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 <h3 align="center">📌 cowork</h3>
 
 <a href="https://github.com/team-cowork/cowork-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-cowork&repo=cowork-server&theme=radical&hide_border=true" />
+ <img width="337" height="294" alt="image" src="https://github.com/user-attachments/assets/1d88c4a3-b8d5-40e5-b0df-02489681c673">
 </a>
-
 **협업 관리 플랫폼**
 
 광주소프트웨어마이스터고등학교 협업 관리 플랫폼. 다양한 언어와 프레임워크를 활용한 MSA 기반 서버를 담당하고 있습니다.
