@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Uploading image.png…]()
+<img width="1373" height="770" alt="image" src="https://github.com/user-attachments/assets/f61dfe8a-88c6-4ae2-80de-e18e7be1af44" />
+
 
 # Hi, I'm 김성찬 👋
 
