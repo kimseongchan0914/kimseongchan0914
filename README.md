@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0D1117&height=260&section=header&text=성찬%20|%20Chan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20·%20광주소프트웨어마이스터고&descAlignY=56&descSize=18&descAlignX=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0D1117&height=260&section=header&text=성찬%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20·%20광주소프트웨어마이스터고&descAlignY=56&descSize=18&descAlignX=50" />
 
 <div align="center">
 
