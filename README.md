@@ -21,7 +21,7 @@
 ### 🧑‍💻 About Me
 
 ```yaml
-name:      "성찬 (Chan)"
+name:      "김성찬"
 role:      "Backend Developer"
 school:    "Gwangju Software Meister High School"
 interests: ["서버 아키텍처", "MSA", "시스템 설계"]
