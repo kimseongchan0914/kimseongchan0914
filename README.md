@@ -61,7 +61,8 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 <h3 align="center">📌 GETI</h3>
 
 <a href="https://github.com/inryeok-office/GETI-Server-V1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=inryeok-office&repo=GETI-Server-V1&theme=radical&hide_border=true" />
+  <img width="137" height="135" alt="image" src="https://github.com/user-attachments/assets/01b84e3e-0ebf-4b8a-8cb1-c341fbf9b7d2" />
+" />
 </a>
 
 **취업 정보 통합 플랫폼**
