@@ -25,30 +25,35 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🚀 Projects</h2>
 
-<div align="center">
+### 📌 GETI — 취업 정보 통합 플랫폼
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<a href="https://github.com/inryeok-office/GETI-Server-V1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=inryeok-office&repo=GETI-Server-V1&theme=radical&hide_border=true" />
+</a>
 
-</div>
+광주소프트웨어마이스터고 학생들을 위한 취업 정보 통합 플랫폼입니다.
+여러 사이트와 공지 채널을 따로 확인하지 않아도 다양한 취업공고를 한곳에서 확인하고,
+학생의 관심 분야와 기술 역량을 바탕으로 자신에게 맞는 공고를 추천받을 수 있도록 돕습니다.
 
-<div align="center">
+- **역할** — Backend
+- **기술** — `Kotlin` `Java` `Spring Boot` `Spring` `Docker` `PostgreSQL`
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)
+<br/>
 
-</div>
+### 📌 cowork — 협업 관리 플랫폼
 
----
+<a href="https://github.com/team-cowork/cowork-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-cowork&repo=cowork-server&theme=radical&hide_border=true" />
+</a>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+광주소프트웨어마이스터고등학교 협업 관리 플랫폼입니다.
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&column=7&margin-w=15)
-
-</div>
+- **역할** — Backend Server
+- **Language** — `Kotlin` `Java` `Go` `TypeScript` `JavaScript(Nuxt)` `Elixir`
+- **Framework** — `Spring Boot` `Spring Cloud Gateway` `Eureka` `OpenFeign` `Vert.x` `NestJS` `Nuxt.js` `Gin` `Chi` `Phoenix` `LiveKit`
+- **Infra / Data** — `MySQL` `MongoDB` `Redis` `Elasticsearch` `Flyway` `Kafka` `Docker` `Vault` `Prometheus` `Grafana`
 
 ---
 
@@ -60,12 +65,6 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=120&section=footer" />
