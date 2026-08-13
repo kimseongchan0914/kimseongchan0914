@@ -119,6 +119,3 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 </a>
 
 </div>
-
-<!-- 거미가 거미줄 타고 날아다니는 애니메이션 (spider-swing.svg 파일을 repo 루트에 함께 업로드) -->
-<img width="100%" src="./spider-swing.svg" alt="swinging spider" />
