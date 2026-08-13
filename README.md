@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-# Hi, I'm 성찬 👋
+![Uploading image.png…]()
+
+# Hi, I'm 김성찬 👋
 
 ### Backend Developer 🖥️
 
