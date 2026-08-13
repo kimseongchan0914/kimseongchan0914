@@ -26,8 +26,6 @@ interests: ["서버 아키텍처", "MSA", "시스템 설계"]
 motto:     "안정적이고 확장 가능한 서버를 만든다"
 ```
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-
 <br/>
 
 <!-- ===== TECH STACK ===== -->
