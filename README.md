@@ -1,4 +1,3 @@
-
 <!-- ===== HEADER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:E23636,100:2B3A8C&height=280&section=header&text=김성찬%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20·%20광주소프트웨어마이스터고&descAlignY=60&descSize=18&descAlignX=50" />
 
@@ -17,6 +16,7 @@
 <br/>
 
 <!-- ===== ABOUT ===== -->
+
 ### 🧑‍💻 About Me
 
 ```yaml
@@ -30,6 +30,7 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 <br/>
 
 <!-- ===== TECH STACK ===== -->
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
@@ -48,7 +49,29 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 
 <br/>
 
+<!-- ===== GITHUB STATS ===== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kimseongchan0914&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E23636&icon_color=E23636&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimseongchan0914&layout=compact&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&langs_count=8" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=kimseongchan0914&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakLabel=E23636&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=E23636" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimseongchan0914&hide_border=true&bg_color=0D1117&color=E23636&line=E23636&point=ffffff&area=true&area_color=2B3A8C" width="95%" />
+
+</div>
+
+<br/>
+
 <!-- ===== PROJECTS ===== -->
+
 <h2 align="center">🚀 Projects</h2>
 
 <br/>
@@ -66,7 +89,6 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 </div>
 
 **취업 정보 통합 플랫폼**
-
 광주소프트웨어마이스터고 학생들을 위한 취업 정보 통합 플랫폼. 여러 사이트와 공지 채널을 따로 확인하지 않아도 다양한 취업공고를 한곳에서 확인하고, 학생의 관심 분야와 기술 역량을 바탕으로 자신에게 맞는 공고를 추천받을 수 있습니다.
 
 `Backend` · `Kotlin` `Java` `Spring Boot` `Docker` `PostgreSQL`
@@ -83,7 +105,6 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 </div>
 
 **협업 관리 플랫폼**
-
 광주소프트웨어마이스터고등학교 협업 관리 플랫폼. 다양한 언어와 프레임워크를 활용한 MSA 기반 서버를 담당하고 있습니다.
 
 `Backend Server` · MSA · Kafka · Multi-language
@@ -94,7 +115,6 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 
 <details>
 <summary><b>🔍 cowork 상세 기술 스택</b></summary>
-
 <br/>
 
 **Language**
@@ -111,12 +131,15 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 <br/>
 
 <!-- ===== CONTACT ===== -->
+
 <h2 align="center">📫 Contact</h2>
 
 <div align="center">
-
 <a href="mailto:s26014@gsm.hs.kr">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:2B3A8C,100:E23636&height=120&section=footer" />
