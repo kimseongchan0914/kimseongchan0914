@@ -16,7 +16,6 @@
 <br/>
 
 <!-- ===== ABOUT ===== -->
-
 ### 🧑‍💻 About Me
 
 ```yaml
@@ -30,48 +29,37 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 <br/>
 
 <!-- ===== TECH STACK ===== -->
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring,docker,git,postgresql&theme=dark" />
 
-<br/><br/>
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 
 <br/>
 
 <!-- ===== GITHUB STATS ===== -->
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kimseongchan0914&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E23636&icon_color=E23636&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimseongchan0914&layout=compact&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=snowykte0426&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=E23636&icon_color=E23636&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snowykte0426&layout=compact&hide_border=true&bg_color=0D1117&title_color=E23636&text_color=C9D1D9&langs_count=8" />
 
 <br/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=kimseongchan0914&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakLabel=E23636&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=E23636" />
+<img height="165" src="https://streak-stats.demolab.com?user=snowykte0426&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakLabel=E23636&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=E23636" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimseongchan0914&hide_border=true&bg_color=0D1117&color=E23636&line=E23636&point=ffffff&area=true&area_color=2B3A8C" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snowykte0426&hide_border=true&bg_color=0D1117&color=E23636&line=E23636&point=ffffff&area=true&area_color=2B3A8C" width="95%" />
 
 </div>
 
 <br/>
 
 <!-- ===== PROJECTS ===== -->
-
 <h2 align="center">🚀 Projects</h2>
 
 <br/>
@@ -89,6 +77,7 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 </div>
 
 **취업 정보 통합 플랫폼**
+
 광주소프트웨어마이스터고 학생들을 위한 취업 정보 통합 플랫폼. 여러 사이트와 공지 채널을 따로 확인하지 않아도 다양한 취업공고를 한곳에서 확인하고, 학생의 관심 분야와 기술 역량을 바탕으로 자신에게 맞는 공고를 추천받을 수 있습니다.
 
 `Backend` · `Kotlin` `Java` `Spring Boot` `Docker` `PostgreSQL`
@@ -105,6 +94,7 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 </div>
 
 **협업 관리 플랫폼**
+
 광주소프트웨어마이스터고등학교 협업 관리 플랫폼. 다양한 언어와 프레임워크를 활용한 MSA 기반 서버를 담당하고 있습니다.
 
 `Backend Server` · MSA · Kafka · Multi-language
@@ -115,6 +105,7 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 
 <details>
 <summary><b>🔍 cowork 상세 기술 스택</b></summary>
+
 <br/>
 
 **Language**
@@ -131,7 +122,6 @@ motto:     "안정적이고 확장 가능한 서버를 만든다"
 <br/>
 
 <!-- ===== CONTACT ===== -->
-
 <h2 align="center">📫 Contact</h2>
 
 <div align="center">
