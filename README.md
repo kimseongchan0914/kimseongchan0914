@@ -37,9 +37,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimseongchan0914&hide_border=true&bg_color=161B22&color=8AB4E0&line=8AB4E0&point=C9A57A&area=true&area_color=C9A57A" width="95%" />
-
-</div>
 
 <br/>
 
@@ -50,11 +47,5 @@
 <a href="mailto:s26014@gsm.hs.kr">
   <img src="https://img.shields.io/badge/Email-C9A57A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/kimseongchan0914">
-  <img src="https://img.shields.io/badge/GitHub-1C2530?style=for-the-badge&logo=github&logoColor=8AB4E0" />
-</a>
-</div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A57A,50:AFC7D9,100:8AB4E0&height=120&section=footer" />
