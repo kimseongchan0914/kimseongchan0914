@@ -37,9 +37,5 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimseongchan0914&hide_border=true&bg_color=0D1117&color=E23636&line=E23636&point=ffffff&area=true&area_color=2B3A8C" width="95%" />
 
-</div>
-
-<br/>
 
