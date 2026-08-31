@@ -3,8 +3,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8AB4E0&center=true&vCenter=true&width=650&height=60&lines=Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Java+%C2%B7+Kotlin+%C2%B7+Spring+Boot;%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B4%EA%B3%A0+%ED%99%95%EC%9E%A5+%EA%B0%80%EB%8A%A5%ED%95%9C+%EC%84%9C%EB%B2%84%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4+%E2%9C%A8)](https://git.io/typing-svg)
-
 <img src="https://img.shields.io/badge/Focus-Backend-8AB4E0?style=flat-square&labelColor=1C2530" />
 <img src="https://img.shields.io/badge/School-GSM-C9A57A?style=flat-square&labelColor=1C2530" />
 <img src="https://img.shields.io/badge/Role-Server_Developer-7A9B6E?style=flat-square&labelColor=1C2530" />
@@ -47,5 +45,3 @@
 <a href="mailto:s26014@gsm.hs.kr">
   <img src="https://img.shields.io/badge/Email-C9A57A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A57A,50:AFC7D9,100:8AB4E0&height=120&section=footer" />
