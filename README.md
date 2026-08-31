@@ -37,11 +37,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimseongchan0914&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=2B3A8C" width="95%" />
 
-</div>
-
-<br/>
 
 <!-- ===== CONTACT ===== -->
 <h2 align="center">📫 Contact</h2>
@@ -50,11 +46,3 @@
 <a href="mailto:s26014@gsm.hs.kr">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/kimseongchan0914">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B3A8C,100:38BDF8&height=120&section=footer" />
