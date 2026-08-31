@@ -43,18 +43,3 @@
 
 <br/>
 
-<!-- ===== CONTACT ===== -->
-<h2 align="center">📫 Contact</h2>
-
-<div align="center">
-<a href="mailto:s26014@gsm.hs.kr">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/kimseongchan0914">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B3A8C,100:E23636&height=120&section=footer" />
