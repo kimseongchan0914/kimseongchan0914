@@ -1,13 +1,6 @@
 <!-- ===== HEADER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8AB4E0,50:AFC7D9,100:C9A57A&height=260&section=header&text=Kim%20Seong%20Chan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Gwangju%20Software%20Meister%20High%20School&descAlignY=58&descSize=18" />
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=kimseongchan0914&color=8AB4E0&style=flat-square&label=Profile+Views)
-
-</div>
-
-<br/>
-
 <!-- ===== TECH STACK ===== -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
