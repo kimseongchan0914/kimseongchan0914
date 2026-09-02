@@ -1,13 +1,6 @@
 <!-- ===== HEADER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8AB4E0,50:AFC7D9,100:C9A57A&height=260&section=header&text=Kim%20Seong%20Chan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Gwangju%20Software%20Meister%20High%20School&descAlignY=58&descSize=18" />
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Backend-8AB4E0?style=flat-square&labelColor=1C2530" />
-<img src="https://img.shields.io/badge/School-GSM-C9A57A?style=flat-square&labelColor=1C2530" />
-<img src="https://img.shields.io/badge/Role-Server_Developer-7A9B6E?style=flat-square&labelColor=1C2530" />
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kimseongchan0914&color=8AB4E0&style=flat-square&label=Profile+Views)
 
