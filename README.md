@@ -1,6 +1,6 @@
 ### Hi, I'm Kim Seongchan 👋
 
-#### 🚀 Open Source Contributions
+#### Open Source Contributions
 
 | Project | Contribution | Status |
 |---|---|---|
