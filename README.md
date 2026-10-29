@@ -11,3 +11,4 @@
 
 **Spring**
 - [spring-projects/spring-framework#37586](https://github.com/spring-projects/spring-framework/pull/37586) – Detect overflow for floating-point numbers in `NumberUtils` ![Merged](https://img.shields.io/github/pulls/detail/state/spring-projects/spring-framework/37586?label=merged&color=8250df)
+- [spring-petclinic/spring-petclinic-rest#374](https://github.com/spring-petclinic/spring-petclinic-rest/pull/374) – Align Pet constraints and remaining NOT NULL columns across schemas ![Merged](https://img.shields.io/github/pulls/detail/state/spring-petclinic/spring-petclinic-rest/374?label=merged&color=8250df)
